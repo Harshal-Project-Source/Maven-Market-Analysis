@@ -31,8 +31,6 @@ Specifically they want to:
 - Step 9 : Use the data tools in the query editor to add the following columns: Start of week, Name of Day, Start of Month, Name of Month, Quarter of Year, Year.
 
 - Step 10 : Confirm that all tables are now accessible within both Table View & the Model View. 
-		
-#### Link of solutions screenshot : 
 
 - Step 11 : In the Model View, arrange tables with the dimensions tables above the fact tables.
 
@@ -48,8 +46,8 @@ Specifically they want to:
         Filters Context flows "downstream" from dimension tables to fact table
         Fact tables are connected via shared lookup tables (not directly to each others)
 
-	![data_model](https://github.com/user-attachments/assets/a7f985b7-3977-4303-b102-8ebc054c7169)
-
+Data Model
+	![data_model](https://github.com/user-attachments/assets/83d28795-9c27-4a29-a6a1-cd35b3ebe300)
 
 - Step 13 : For creating new columns following DAX expression was written :
 
